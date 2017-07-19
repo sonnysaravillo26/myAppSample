@@ -1,2 +1,2 @@
 #MyApp 
-this is just a sample my App
+this is just a sample
